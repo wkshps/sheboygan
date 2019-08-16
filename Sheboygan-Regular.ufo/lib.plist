@@ -4,11 +4,11 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string> </string>
-		<string>A</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.font.Disable Subroutines</key>
+	<true/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>

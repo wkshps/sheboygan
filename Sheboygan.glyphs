@@ -1,8 +1,10 @@
 {
 .appVersion = "1230";
-DisplayStrings = (
-" ",
-A
+customParameters = (
+{
+name = "Disable Subroutines";
+value = 1;
+}
 );
 date = "2019-08-16 14:45:22 +0000";
 designer = Wkshps;
@@ -1507,13 +1509,29 @@ instances = (
 customParameters = (
 {
 name = Filter;
-value = "Noodler; 30.0; 1; 1";
+value = "Noodler; 40.0; 1; 1";
 }
 );
 instanceInterpolations = {
 "95BE9FD8-0C22-4C70-810F-D75C3B89A2F9" = 1;
 };
 name = Regular;
+},
+{
+customParameters = (
+{
+name = Filter;
+value = "Roughenizer;9;8;8;0;";
+},
+{
+name = Filter;
+value = "Noodler; 40.0; 1; 1";
+}
+);
+instanceInterpolations = {
+"95BE9FD8-0C22-4C70-810F-D75C3B89A2F9" = 1;
+};
+name = Carved;
 }
 );
 unitsPerEm = 1000;
