@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="867"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="200" y="700" type="move"/>
+      <point x="200" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="667" y="700" type="move"/>
+      <point x="433" y="350" type="line"/>
+      <point x="667" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-08-16 15:32:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>
